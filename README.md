@@ -8,6 +8,12 @@ Click here to view the live site:
 
 ## 📁 Project Structure
 
+spotify-clone/
+│
+├── index.html # Main HTML file
+├── style.css # CSS for styling
+├── assets/ # Images, icons, etc.
+└── README.md # Project documentation (you’re reading it!)
 
 ## ✨ Features
 
@@ -31,12 +37,13 @@ _Add a screenshot of your UI here (optional)._
 1. Clone the repository:
    ```bash
    git clone https://github.com/saikumargoud2003/spotify-clone.git
+Open index.html in your browser.
 
----
+📬 Contact
+Created by Saikumar Goud
+Feel free to connect with me on LinkedIn or drop a ⭐ on the repo!
 
-Let me know if you want to include:
-- JavaScript functionality
-- Screenshot images
-- Social/contact links
 
-I can customize it further!
+
+
+
