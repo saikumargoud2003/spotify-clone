@@ -22,9 +22,7 @@ spotify-clone/
 - Clean layout and intuitive interface
 - Pure HTML & CSS (no frameworks)
 
-## 📸 Screenshots
 
-_Add a screenshot of your UI here (optional)._
 
 ## 📚 Technologies Used
 
